@@ -1,0 +1,41 @@
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\Steam Nexus API.csproj.AssemblyReference.cache
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\rpswa.dswa.cache.json
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\Steam Nexus API.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\Steam Nexus API.AssemblyInfoInputs.cache
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\Steam Nexus API.AssemblyInfo.cs
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\Steam Nexus API.csproj.CoreCompileInputs.cache
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\Steam Nexus API.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\Steam Nexus API.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\appsettings.json
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\Steam Nexus API.staticwebassets.endpoints.json
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\Steam Nexus API.exe
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\Steam Nexus API.deps.json
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\Steam Nexus API.runtimeconfig.json
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\Steam Nexus API.dll
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\Steam Nexus API.pdb
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\protobuf-net.dll
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\protobuf-net.Core.dll
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\SteamKit2.dll
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\System.IO.Hashing.dll
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\bin\Debug\net8.0\ZstdSharp.dll
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\rjimswa.dswa.cache.json
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\rjsmrazor.dswa.cache.json
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\rjsmcshtml.dswa.cache.json
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\scopedcss\bundle\Steam Nexus API.styles.css
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\staticwebassets.build.json.cache
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\staticwebassets.build.endpoints.json
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\swae.build.ex.cache
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\staticwebassets.upToDateCheck.txt
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\Steam Ne.6F3938B3.Up2Date
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\Steam Nexus API.dll
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\refint\Steam Nexus API.dll
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\Steam Nexus API.pdb
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\Steam Nexus API.genruntimeconfig.cache
+C:\Users\Asus\Desktop\VisualStudio Sources\Steam Nexus API\obj\Debug\net8.0\ref\Steam Nexus API.dll

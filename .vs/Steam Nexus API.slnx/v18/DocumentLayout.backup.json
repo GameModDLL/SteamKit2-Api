@@ -1,0 +1,254 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|c:\\users\\asus\\desktop\\visualstudio sources\\steam nexus api\\services\\steamsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|solutionrelative:services\\steamsession.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|c:\\users\\asus\\desktop\\visualstudio sources\\steam nexus api\\services\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|solutionrelative:services\\sessionmanager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|c:\\users\\asus\\desktop\\visualstudio sources\\steam nexus api\\manager\\steamcallbackhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|solutionrelative:manager\\steamcallbackhost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|c:\\users\\asus\\desktop\\visualstudio sources\\steam nexus api\\controllers\\steamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|solutionrelative:controllers\\steamcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|c:\\users\\asus\\desktop\\visualstudio sources\\steam nexus api\\services\\freepackagecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|solutionrelative:services\\freepackagecacheservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|c:\\users\\asus\\desktop\\visualstudio sources\\steam nexus api\\models\\submitcoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|solutionrelative:models\\submitcoderequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|c:\\users\\asus\\desktop\\visualstudio sources\\steam nexus api\\models\\sessionstartresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|solutionrelative:models\\sessionstartresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|c:\\users\\asus\\desktop\\visualstudio sources\\steam nexus api\\models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|solutionrelative:models\\loginrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|c:\\users\\asus\\desktop\\visualstudio sources\\steam nexus api\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|c:\\users\\asus\\desktop\\visualstudio sources\\steam nexus api\\hubs\\steamhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|solutionrelative:hubs\\steamhub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|c:\\users\\asus\\desktop\\visualstudio sources\\steam nexus api\\services\\steamwebapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|solutionrelative:services\\steamwebapiservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\GetGameStearmServer\\SteamManager.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|c:\\users\\asus\\desktop\\visualstudio sources\\steam nexus api\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|c:\\users\\asus\\desktop\\visualstudio sources\\steam nexus api\\models\\getlicensesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{20C4DEDF-658C-0A7D-DE30-9682C0B334CA}|Steam Nexus API.csproj|solutionrelative:models\\getlicensesrequest.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SessionManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Services\\SessionManager.cs",
+              "RelativeDocumentMoniker": "Services\\SessionManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Services\\SessionManager.cs",
+              "RelativeToolTip": "Services\\SessionManager.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAcwFgAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:06:15.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "SteamController.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Controllers\\SteamController.cs",
+              "RelativeDocumentMoniker": "Controllers\\SteamController.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Controllers\\SteamController.cs",
+              "RelativeToolTip": "Controllers\\SteamController.cs",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAQwD4AAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T23:03:30.004Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SteamSession.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Services\\SteamSession.cs",
+              "RelativeDocumentMoniker": "Services\\SteamSession.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Services\\SteamSession.cs",
+              "RelativeToolTip": "Services\\SteamSession.cs",
+              "ViewState": "AgIAAJUAAAAAAAAAAAAAAKMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T00:16:39.741Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FreePackageCacheService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Services\\FreePackageCacheService.cs",
+              "RelativeDocumentMoniker": "Services\\FreePackageCacheService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Services\\FreePackageCacheService.cs",
+              "RelativeToolTip": "Services\\FreePackageCacheService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAlwA4AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:59:37.081Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SteamCallbackHost.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Manager\\SteamCallbackHost.cs",
+              "RelativeDocumentMoniker": "Manager\\SteamCallbackHost.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Manager\\SteamCallbackHost.cs",
+              "RelativeToolTip": "Manager\\SteamCallbackHost.cs",
+              "ViewState": "AgIAADkAAAAAAAAAAAAowCYAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:06:44.891Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "SubmitCodeRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Models\\SubmitCodeRequest.cs",
+              "RelativeDocumentMoniker": "Models\\SubmitCodeRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Models\\SubmitCodeRequest.cs",
+              "RelativeToolTip": "Models\\SubmitCodeRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAA6wAQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:26:59.358Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "SessionStartResult.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Models\\SessionStartResult.cs",
+              "RelativeDocumentMoniker": "Models\\SessionStartResult.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Models\\SessionStartResult.cs",
+              "RelativeToolTip": "Models\\SessionStartResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-20T12:42:23.685Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "LoginRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Models\\LoginRequest.cs",
+              "RelativeDocumentMoniker": "Models\\LoginRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Models\\LoginRequest.cs",
+              "RelativeToolTip": "Models\\LoginRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAoAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:26:50.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAABzAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:11:11.447Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "SteamHub.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Hubs\\SteamHub.cs",
+              "RelativeDocumentMoniker": "Hubs\\SteamHub.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Hubs\\SteamHub.cs",
+              "RelativeToolTip": "Hubs\\SteamHub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:37:04.843Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "SteamWebAPIService.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Services\\SteamWebAPIService.cs",
+              "RelativeDocumentMoniker": "Services\\SteamWebAPIService.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Services\\SteamWebAPIService.cs",
+              "RelativeToolTip": "Services\\SteamWebAPIService.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAUwEAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T22:20:24.544Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-11-20T00:04:00.445Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "GetLicensesRequest.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Models\\GetLicensesRequest.cs",
+              "RelativeDocumentMoniker": "Models\\GetLicensesRequest.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\Steam Nexus API\\Models\\GetLicensesRequest.cs",
+              "RelativeToolTip": "Models\\GetLicensesRequest.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T23:46:45.504Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "SteamManager.cs",
+              "DocumentMoniker": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\GetGameStearmServer\\SteamManager.cs",
+              "RelativeDocumentMoniker": "..\\GetGameStearmServer\\SteamManager.cs",
+              "ToolTip": "C:\\Users\\Asus\\Desktop\\VisualStudio Sources\\GetGameStearmServer\\SteamManager.cs",
+              "RelativeToolTip": "..\\GetGameStearmServer\\SteamManager.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAswCwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-19T21:08:06.505Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
